@@ -1,0 +1,12 @@
+[
+    {
+       "doc_type": "Stock Entry Type",
+       "doctype": "Property Setter",
+       "doctype_or_field": "DocType",       
+       "modified": "2023-10-25 19:42:46.943779",
+       "name": "Stock Entry Type-translated_doctype",
+       "property_type":"Check",
+       "property": "translated_doctype",
+       "value": 1
+    }
+]
